@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente na faculdade de Sistemas de Informação
-- 🌱 Estudando Javascript
-- 📫 Contact-me: guttinue@gmail.com
+- 🌎 Atualmente na faculdade de Sistemas de Informação
+- ✉️ Estudando Javascript
+- 🧠 Contact-me: guttinue@gmail.com
 
 ## skills
 
