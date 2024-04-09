@@ -1,12 +1,13 @@
-## Olá, eu sou Guto Valença
+## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,  eu sou Guto Valença
 
 
 
-- 🌎 Atualmente na faculdade de Sistemas de Informação
-- ✉️ Estudando Javascript
+- 🌎 Recife-PE
+- ✉️ Learning Javascript 
 - 🧠 Contact-me: guttinue@gmail.com
 
 ## skills
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,5 +25,4 @@
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guttinue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dácio-augusto-1178892b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-  
 </div>
