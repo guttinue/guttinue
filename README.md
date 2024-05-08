@@ -3,8 +3,8 @@
 
 
 - 🌎 Recife-PE
-- ✉️ Learning Javascript 
-- 🧠 Contact-me: guttinue@gmail.com
+- 🧠 Learning Javascript 
+- ✉️ Contact-me: guttinue@gmail.com
 
 ## skills
 
